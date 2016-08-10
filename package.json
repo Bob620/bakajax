@@ -1,6 +1,6 @@
 {
   "name": "bakajax",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easy Javascript Ajax for the 'Baka's among us",
   "main": "index.js",
   "scripts": {
